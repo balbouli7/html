@@ -1,0 +1,76 @@
+body{font-family: 'roboto', sans serif; 
+    color: white;
+    background: linear-gradient(98.3deg, rgb(0, 0, 0) 10.6%, rgb(255, 0, 0) 97.7%);
+}
+
+header{
+    display: inline; 
+    text-align: center; 
+    margin: 100px;
+}
+
+section{
+    padding: 30px;
+}
+h1{
+    font-size: 50px;
+}
+
+p{
+    font-size: 20px;
+}
+
+nav>a{padding: 50px; text-decoration: none; 
+    color: rgb(0, 255, 34);
+
+}
+
+a:hover{
+    color: white;
+}
+.home{
+    text-align: center; border: solid rgb(255, 255, 255);
+}
+.home>img{
+    width: 300px;
+}
+
+.about{
+    text-align: center; border: solid rgb(255, 255, 255);
+}
+.about>video{
+    width: 500px;
+    padding: 30px;
+}
+.work{
+    text-align: center; 
+    border: solid rgb(255, 255, 255);
+}
+
+.list{
+    justify-items: center; text-align: center;
+}
+
+li{
+    padding: 10px; font-size: 20px;
+}
+
+.res{text-align: center; padding: 0;
+    border: solid rgb(255, 255, 255);
+}
+
+.res>p{text-align: center; padding: 50px;}
+
+.contact{
+    justify-items: center;
+    border: solid rgb(255, 255, 255);
+}
+
+table{
+    margin: 20px;
+}
+
+footer{ margin: 30px; text-align: center; color: blue;
+    
+}
+
